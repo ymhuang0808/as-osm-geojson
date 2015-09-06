@@ -2,7 +2,8 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "1441519913",
+  "version": 1,
+  "timestamp": 1441521639,
   "features": [
     {
       "type": "Feature",
